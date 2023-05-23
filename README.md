@@ -1,8 +1,5 @@
-- 🔭 I’m currently working on continual learning, graph representation learning and quantum information science.
+- 🔭 I’m currently working on quantum information science.
 - 🌱 I’m currently learning linear algebra, quantum information science and quantum mechanics.
 - 👯 I’m looking to collaborate on various ML projects.
 - 🤔 I’m looking for help with quantum information science or any other physics-related topics
-- 💬 Ask me about ...
 - 📫 How to reach me: hyeonb13@knu.ac.kr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
